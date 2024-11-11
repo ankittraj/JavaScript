@@ -2,7 +2,7 @@ var firstName = "Ankit";
 // use a variable 
 console.log(firstName);
 
-// change value 
+// change value.
 firstName = "Nitish";
 
 console.log(firstName);
